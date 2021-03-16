@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  font-family: "Arial";
+  color: #383838;
+  background-color: #FAFAFA;
+}
+
+.header {
+  background-color: #252525;
+  width: 100vw;
+  height: 20vh;
+}
